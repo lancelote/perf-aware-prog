@@ -5,9 +5,9 @@ My notes going through "[Performance-Aware Programming Series][course]" by [Case
 ## TOC
 
 * [x] Prologue
-* [ ] Interlude
-  * [ ] The Haversine Distance Problem
-  * [ ] “Clean” Code, Horrible Performance
+* [x] [Interlude](src/interlude)
+  * [x] The Haversine Distance Problem
+  * [x] “Clean” Code, Horrible Performance
 * [ ] Part 1: Reading ASM
 * [ ] Part 2: Basic Profiling
 * [ ] Part 3: Moving Data
